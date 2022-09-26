@@ -1,0 +1,14 @@
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.csproj.AssemblyReference.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.AssemblyInfoInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.AssemblyInfo.cs
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.csproj.CoreCompileInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.exe
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.deps.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.runtimeconfig.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.runtimeconfig.dev.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\bin\Debug\netcoreapp3.1\TCproject.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\TCproject\TCproject\obj\Debug\netcoreapp3.1\TCproject.genruntimeconfig.cache
